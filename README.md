@@ -14,7 +14,7 @@
 <a href="https://stackoverflow.com/users/farhaddadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="farhaddadas" height="30" width="40" /></a>
 <a href="https://instagram.com/ferhad___dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferhad___dd" height="30" width="40" /></a>
 <a href="https://medium.com/@ferhad dadaszade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ferhad dadaszade" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ferhad dadaszade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ferhad dadaszade" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ferhaddadaszade1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ferhad dadaszade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
