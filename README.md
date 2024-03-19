@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ferhaddadaszade188@gmail.com**
 
-- 📄 Know about my experiences [MyCv](file:///C:/Users/user/Desktop/CVEnFerhadDadaszade.pdf)
+- 📄 Know about my experiences [MyCv](https://bold.pro/my/farhad-dadaszade/488)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
