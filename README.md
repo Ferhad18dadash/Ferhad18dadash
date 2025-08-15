@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/f%C9%99rhad-dada%C5%9Fzad%C9%99-360547215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fərhad dadaşzadə" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/farhad-dadashzada-360547215//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fərhad dadaşzadə" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23480172/farhaddadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="farhaddadas" height="30" width="40" /></a>
 <a href="https://instagram.com/ferhad___dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferhad___dd" height="30" width="40" /></a>
 <a href="https://medium.com/@ferhaddadaszade188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ferhad dadaszade" height="30" width="40" /></a>
